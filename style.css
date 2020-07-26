@@ -1,0 +1,63 @@
+body {
+	position: relative;
+	height: 1000px;
+	width: 800px;
+}
+
+.im {
+	position: relative;
+	margin-left: 540px;
+}
+
+.title {
+	text-align: center;
+	margin-left: 480px;
+}
+
+
+.all {
+	text-align: center;
+	background-color: #238c8c;
+	margin-left: 400px;
+	width: 500px;
+}
+
+#head-name {
+	font-weight: bold;
+	font-size: 28px;
+}
+
+#name {
+	width: 400px;
+	height: 30px;
+	margin: 10px;
+}
+
+#head-text {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.text-area {
+	width: 400px;
+	height: 80px;
+	margin: 20px;
+}
+
+.submit {
+	background-color: #0cf5f5;
+	width: 200px;
+	height: 50px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.load {
+	text-align: center;
+	margin-left: 450px;
+}
+
+.donkey {
+	width: 50%;
+	margin:50px;
+}
